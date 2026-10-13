@@ -1,0 +1,1022 @@
+{
+ "type": "excalidraw",
+ "version": 2,
+ "source": "diagrams/tools/sketch.py",
+ "elements": [
+  {
+   "id": "H13-claude-code-architecture-node-loop",
+   "type": "ellipse",
+   "x": 815.0,
+   "y": 395.0,
+   "width": 290,
+   "height": 290,
+   "angle": 0,
+   "strokeColor": "#94E147",
+   "backgroundColor": "#18240C",
+   "fillStyle": "solid",
+   "strokeWidth": 4,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 62155819,
+   "version": 1,
+   "versionNonce": 1957458753,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-label-loop",
+     "type": "text"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-0",
+     "type": "arrow"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-1",
+     "type": "arrow"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-2",
+     "type": "arrow"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-3",
+     "type": "arrow"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-4",
+     "type": "arrow"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-5",
+     "type": "arrow"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-6",
+     "type": "arrow"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-label-loop",
+   "type": "text",
+   "x": 871.17,
+   "y": 482.5,
+   "width": 177.66,
+   "height": 115.0,
+   "angle": 0,
+   "strokeColor": "#94E147",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1291201297,
+   "version": 1,
+   "versionNonce": 1517848130,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "Agentic\nloop",
+   "originalText": "Agentic\nloop",
+   "fontSize": 46,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-node-loop",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-node-mem",
+   "type": "rectangle",
+   "x": 317.37,
+   "y": 175.0,
+   "width": 605.27,
+   "height": 120,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "#13150B",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 759287009,
+   "version": 1,
+   "versionNonce": 898277766,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-label-mem",
+     "type": "text"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-0",
+     "type": "arrow"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-label-mem",
+   "type": "text",
+   "x": 357.37,
+   "y": 207.5,
+   "width": 525.27,
+   "height": 55.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 290935766,
+   "version": 1,
+   "versionNonce": 1168715224,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "CLAUDE.md + memory",
+   "originalText": "CLAUDE.md + memory",
+   "fontSize": 44,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-node-mem",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-node-skills",
+   "type": "rectangle",
+   "x": 1128.91,
+   "y": 175.0,
+   "width": 342.18,
+   "height": 120,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "#13150B",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 87472026,
+   "version": 1,
+   "versionNonce": 617994240,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-label-skills",
+     "type": "text"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-1",
+     "type": "arrow"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-label-skills",
+   "type": "text",
+   "x": 1162.72,
+   "y": 207.5,
+   "width": 274.56,
+   "height": 55.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 25490728,
+   "version": 1,
+   "versionNonce": 1244812340,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "Skills   MCP",
+   "originalText": "Skills   MCP",
+   "fontSize": 44,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-node-skills",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-node-stop",
+   "type": "rectangle",
+   "x": 1463.48,
+   "y": 340.0,
+   "width": 313.05,
+   "height": 120,
+   "angle": 0,
+   "strokeColor": "#F0B03B",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 391715732,
+   "version": 1,
+   "versionNonce": 948777387,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-label-stop",
+     "type": "text"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-2",
+     "type": "arrow"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-label-stop",
+   "type": "text",
+   "x": 1503.48,
+   "y": 372.5,
+   "width": 233.05,
+   "height": 55.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 2138034572,
+   "version": 1,
+   "versionNonce": 276081875,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "Stop hook",
+   "originalText": "Stop hook",
+   "fontSize": 44,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-node-stop",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-node-judge",
+   "type": "rectangle",
+   "x": 1442.23,
+   "y": 500.0,
+   "width": 355.53,
+   "height": 120,
+   "angle": 0,
+   "strokeColor": "#F0B03B",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 1618781478,
+   "version": 1,
+   "versionNonce": 1516925387,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-label-judge",
+     "type": "text"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-3",
+     "type": "arrow"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-label-judge",
+   "type": "text",
+   "x": 1482.23,
+   "y": 532.5,
+   "width": 275.53,
+   "height": 55.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1150792686,
+   "version": 1,
+   "versionNonce": 387718992,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "/goal judge",
+   "originalText": "/goal judge",
+   "fontSize": 44,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-node-judge",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-node-sub",
+   "type": "rectangle",
+   "x": 1457.1,
+   "y": 660.0,
+   "width": 325.79,
+   "height": 120,
+   "angle": 0,
+   "strokeColor": "#F0B03B",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 29553879,
+   "version": 1,
+   "versionNonce": 1556802952,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-label-sub",
+     "type": "text"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-4",
+     "type": "arrow"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-label-sub",
+   "type": "text",
+   "x": 1497.1,
+   "y": 692.5,
+   "width": 245.79,
+   "height": 55.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1871294037,
+   "version": 1,
+   "versionNonce": 1081703819,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "Subagents",
+   "originalText": "Subagents",
+   "fontSize": 44,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-node-sub",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-node-log",
+   "type": "rectangle",
+   "x": 788.3,
+   "y": 810.0,
+   "width": 343.39,
+   "height": 150,
+   "angle": 0,
+   "strokeColor": "#6E7A45",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [
+    "H13-claude-code-architecture-grp-log"
+   ],
+   "frameId": null,
+   "roundness": {
+    "type": 3
+   },
+   "seed": 1320546240,
+   "version": 1,
+   "versionNonce": 710640013,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-label-log",
+     "type": "text"
+    },
+    {
+     "id": "H13-claude-code-architecture-edge-5",
+     "type": "arrow"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-node-log-top",
+   "type": "ellipse",
+   "x": 788.3,
+   "y": 810.0,
+   "width": 343.39,
+   "height": 48.0,
+   "angle": 0,
+   "strokeColor": "#6E7A45",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [
+    "H13-claude-code-architecture-grp-log"
+   ],
+   "frameId": null,
+   "roundness": null,
+   "seed": 72576155,
+   "version": 1,
+   "versionNonce": 1232316083,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false
+  },
+  {
+   "id": "H13-claude-code-architecture-label-log",
+   "type": "text",
+   "x": 828.3,
+   "y": 857.5,
+   "width": 263.39,
+   "height": 55.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 797876142,
+   "version": 1,
+   "versionNonce": 790172309,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "Session log",
+   "originalText": "Session log",
+   "fontSize": 44,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-node-log",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-0",
+   "type": "arrow",
+   "x": 696.3,
+   "y": 303.44,
+   "width": 147.03,
+   "height": 131.9,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1947021335,
+   "version": 1,
+   "versionNonce": 1288005615,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     147.03,
+     131.9
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": null,
+   "endArrowhead": "arrow",
+   "elbowed": false,
+   "startBinding": {
+    "elementId": "H13-claude-code-architecture-node-mem",
+    "focus": 0,
+    "gap": 14
+   },
+   "endBinding": {
+    "elementId": "H13-claude-code-architecture-node-loop",
+    "focus": 0,
+    "gap": 14
+   }
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-1",
+   "type": "arrow",
+   "x": 1223.7,
+   "y": 303.44,
+   "width": 147.03,
+   "height": 131.9,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1563726207,
+   "version": 1,
+   "versionNonce": 804522888,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     -147.03,
+     131.9
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": null,
+   "endArrowhead": "arrow",
+   "elbowed": false,
+   "startBinding": {
+    "elementId": "H13-claude-code-architecture-node-skills",
+    "focus": 0,
+    "gap": 14
+   },
+   "endBinding": {
+    "elementId": "H13-claude-code-architecture-node-loop",
+    "focus": 0,
+    "gap": 14
+   }
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-2",
+   "type": "arrow",
+   "x": 1453.68,
+   "y": 435.28,
+   "width": 339.73,
+   "height": 72.06,
+   "angle": 0,
+   "strokeColor": "#F0B03B",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "dashed",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 66825198,
+   "version": 1,
+   "versionNonce": 726176768,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     -339.73,
+     72.06
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": null,
+   "endArrowhead": "arrow",
+   "elbowed": false,
+   "startBinding": {
+    "elementId": "H13-claude-code-architecture-node-stop",
+    "focus": 0,
+    "gap": 14
+   },
+   "endBinding": {
+    "elementId": "H13-claude-code-architecture-node-loop",
+    "focus": 0,
+    "gap": 14
+   }
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-3",
+   "type": "arrow",
+   "x": 1428.63,
+   "y": 554.2,
+   "width": 310.26,
+   "height": 9.4,
+   "angle": 0,
+   "strokeColor": "#F0B03B",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "dashed",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 2100529980,
+   "version": 1,
+   "versionNonce": 10693487,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     -310.26,
+     -9.4
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": null,
+   "endArrowhead": "arrow",
+   "elbowed": false,
+   "startBinding": {
+    "elementId": "H13-claude-code-architecture-node-judge",
+    "focus": 0,
+    "gap": 14
+   },
+   "endBinding": {
+    "elementId": "H13-claude-code-architecture-node-loop",
+    "focus": 0,
+    "gap": 14
+   }
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-4",
+   "type": "arrow",
+   "x": 1445.62,
+   "y": 672.44,
+   "width": 335.99,
+   "height": 91.63,
+   "angle": 0,
+   "strokeColor": "#F0B03B",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "dashed",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1909142985,
+   "version": 1,
+   "versionNonce": 274279939,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     -335.99,
+     -91.63
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": null,
+   "endArrowhead": "arrow",
+   "elbowed": false,
+   "startBinding": {
+    "elementId": "H13-claude-code-architecture-node-sub",
+    "focus": 0,
+    "gap": 14
+   },
+   "endBinding": {
+    "elementId": "H13-claude-code-architecture-node-loop",
+    "focus": 0,
+    "gap": 14
+   }
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-5",
+   "type": "arrow",
+   "x": 960.0,
+   "y": 698.47,
+   "width": 0.0,
+   "height": 99.22,
+   "angle": 0,
+   "strokeColor": "#6E7A45",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 290974714,
+   "version": 1,
+   "versionNonce": 555841488,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     99.22
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": "arrow",
+   "endArrowhead": "arrow",
+   "elbowed": false,
+   "startBinding": {
+    "elementId": "H13-claude-code-architecture-node-loop",
+    "focus": 0,
+    "gap": 14
+   },
+   "endBinding": {
+    "elementId": "H13-claude-code-architecture-node-log",
+    "focus": 0,
+    "gap": 14
+   }
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-6",
+   "type": "arrow",
+   "x": 70.0,
+   "y": 540.0,
+   "width": 731.38,
+   "height": 0.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1770570870,
+   "version": 1,
+   "versionNonce": 1148902524,
+   "isDeleted": false,
+   "boundElements": [
+    {
+     "id": "H13-claude-code-architecture-edge-6-label",
+     "type": "text"
+    }
+   ],
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     731.38,
+     0.0
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": null,
+   "endArrowhead": "arrow",
+   "elbowed": false,
+   "startBinding": null,
+   "endBinding": {
+    "elementId": "H13-claude-code-architecture-node-loop",
+    "focus": 0,
+    "gap": 14
+   }
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-6-label",
+   "type": "text",
+   "x": 199.08,
+   "y": 517.5,
+   "width": 473.21,
+   "height": 45.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 1113500206,
+   "version": 1,
+   "versionNonce": 217211975,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "text": "/loop, routines (preview)",
+   "originalText": "/loop, routines (preview)",
+   "fontSize": 36,
+   "fontFamily": 5,
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "H13-claude-code-architecture-edge-6",
+   "autoResize": true,
+   "lineHeight": 1.25
+  },
+  {
+   "id": "H13-claude-code-architecture-edge-7",
+   "type": "arrow",
+   "x": 1307.6,
+   "y": 231.0,
+   "width": 3.0,
+   "height": 0.0,
+   "angle": 0,
+   "strokeColor": "#ECF2E1",
+   "backgroundColor": "transparent",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeStyle": "solid",
+   "roughness": 1,
+   "opacity": 100,
+   "groupIds": [],
+   "frameId": null,
+   "roundness": null,
+   "seed": 568020699,
+   "version": 1,
+   "versionNonce": 234007891,
+   "isDeleted": false,
+   "boundElements": null,
+   "updated": 1760000000000,
+   "link": null,
+   "locked": false,
+   "points": [
+    [
+     0.0,
+     0.0
+    ],
+    [
+     3.0,
+     0.0
+    ]
+   ],
+   "lastCommittedPoint": null,
+   "startArrowhead": null,
+   "endArrowhead": null,
+   "elbowed": false,
+   "startBinding": null,
+   "endBinding": null
+  }
+ ],
+ "appState": {
+  "viewBackgroundColor": "#040502",
+  "theme": "light",
+  "gridSize": null,
+  "currentItemFontFamily": 5
+ },
+ "files": {}
+}
