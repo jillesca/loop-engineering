@@ -18,8 +18,8 @@ This session deconstructs how these systems are architected and gives builders a
 ## Material
 
 - **Slides:** PDF added after the talk (`slides.pdf`).
-- **References:** [all sources](../../references.md), grouped by type. Slides show small IDs such as `R3-013`; look them up in the [claim index](../../references.md#claim-index).
-- **Versions inspected:** OpenClaw, Hermes Agent, Pi, Claude Code and Codex, listed at the end of [references.md](../../references.md#versions-inspected).
+- **References:** [all sources](references.md), grouped by type. Slides show small IDs such as `R3-013`; look them up in the [claim index](references.md#claim-index).
+- **Versions inspected:** OpenClaw, Hermes Agent, Pi, Claude Code and Codex, listed at the end of [references.md](references.md#versions-inspected).
 
 ## Exact version presented
 

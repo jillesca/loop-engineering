@@ -18,7 +18,6 @@ Most of this is good software engineering applied to a component that guesses: o
 
 ## What's here
 
-- [`references.md`](references.md): every source behind the talk, grouped by type, plus a claim index and the product versions inspected.
 - [`talks/`](talks/): one folder per session, with its abstract and slides.
 
 Each session is also tagged at delivery (for example `shift-forward-2026`) so the exact version presented stays available.
