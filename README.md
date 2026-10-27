@@ -12,14 +12,13 @@ Most of this is good software engineering applied to a component that guesses: o
 
 ## Sessions
 
-| Date | Event | Material |
-|---|---|---|
+| Date        | Event                         | Material                                                    |
+| ----------- | ----------------------------- | ----------------------------------------------------------- |
 | 27 Oct 2026 | Shift.Forward() · Build track | [talks/2026-10-shift-forward](talks/2026-10-shift-forward/) |
 
 ## What's here
 
 - [`references.md`](references.md): every source behind the talk, grouped by type, plus a claim index and the product versions inspected.
-- [`diagrams/`](diagrams/): the slide diagrams as PNG, SVG and editable Excalidraw files.
 - [`talks/`](talks/): one folder per session, with its abstract and slides.
 
 Each session is also tagged at delivery (for example `shift-forward-2026`) so the exact version presented stays available.

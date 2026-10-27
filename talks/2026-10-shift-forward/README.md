@@ -19,7 +19,6 @@ This session deconstructs how these systems are architected and gives builders a
 
 - **Slides:** PDF added after the talk (`slides.pdf`).
 - **References:** [all sources](../../references.md), grouped by type. Slides show small IDs such as `R3-013`; look them up in the [claim index](../../references.md#claim-index).
-- **Diagrams:** [`diagrams/`](../../diagrams/). File names start with this session's slide numbers (`S03-…` visible, `H01-…` backup slides).
 - **Versions inspected:** OpenClaw, Hermes Agent, Pi, Claude Code and Codex, listed at the end of [references.md](../../references.md#versions-inspected).
 
 ## Exact version presented
